@@ -1,6 +1,6 @@
 # 👋 Welcome to SecureByte's GitHub Profile!
 
-![Banner](./SecureByteOfficial/SecureByteOfficial/blob/main/securebyte%20banner.png) <!-- Replace with your banner image URL -->
+![Banner](https://github.com/SecureByteOfficial/SecureByteOfficial/blob/main/securebyte%20banner.png?raw=true)
 
 ## 🔒 About Us
 SecureByte is dedicated to innovating the future of cybersecurity through advanced R&D, comprehensive training programs, and effective security solutions. We believe in empowering our community and building a secure digital landscape for everyone.
