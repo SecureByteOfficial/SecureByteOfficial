@@ -30,6 +30,9 @@ SecureByte is dedicated to innovating the future of cybersecurity through advanc
     <p style="margin: 10px 0 0; font-size: 0.9em; line-height: 1.5;">
       Kickstart your journey into cybersecurity with this beginner-friendly internship! Gain practical knowledge in threat analysis, risk management, and ethical hacking through hands-on labs and real-world projects.
     </p>
+      <p style="margin: 10px 0 0; font-size: 0.9em; line-height: 1.5;">
+     ⏰   Start Date: December 1, 2024 to End Date: January 30, 2025
+    </p>
     <a href="https://securebyteofficial.github.io/Cybersecurity-Internship-for-Beginners/" target="_blank" style="display: inline-block; margin-top: 15px; padding: 10px 15px; background-color: #fff; color: #007bff; font-weight: bold; border-radius: 5px; text-decoration: none; box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.7); transition: box-shadow 0.3s ease;">
       Learn More
     </a>
