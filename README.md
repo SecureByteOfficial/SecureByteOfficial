@@ -22,7 +22,7 @@ SecureByte is dedicated to innovating the future of cybersecurity through advanc
 
 <div style="display: flex; gap: 20px; justify-content: center;">
 
-  <!-- Card 1 -->
+<!-- Card 1 -->
   <div style="flex: 1; max-width: 45%; position: relative; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #007bff, #00d4ff); color: white; box-shadow: 0 4px 15px rgba(0, 123, 255, 0.4);">
     <div style="display: flex; align-items: center; gap: 15px;">
       <h3 style="margin: 0;"> 🛡️ SecureByte Cybersecurity Internship for Beginners 🛡️  </h3>
@@ -38,7 +38,7 @@ SecureByte is dedicated to innovating the future of cybersecurity through advanc
     </a>
   </div>
 
-    <!-- Card 2 -->
+<!-- Card 2 -->
   <div style="flex: 1; max-width: 45%; position: relative; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #007bff, #00d4ff); color: white; box-shadow: 0 4px 15px rgba(0, 123, 255, 0.4);">
     <div style="display: flex; align-items: center; gap: 15px;">
       <h3 style="margin: 0;"> 🛡️ Cybersecurity Career Roadmap Seminar - From CSE Student to Cybersecurity Professional 🛡️  </h3>
