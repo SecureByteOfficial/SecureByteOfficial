@@ -31,9 +31,24 @@ SecureByte is dedicated to innovating the future of cybersecurity through advanc
       Kickstart your journey into cybersecurity with this beginner-friendly internship! Gain practical knowledge in threat analysis, risk management, and ethical hacking through hands-on labs and real-world projects.
     </p>
       <p style="margin: 10px 0 0; font-size: 0.9em; line-height: 1.5;">
-     ⏰   Start Date: December 1, 2024 to End Date: January 30, 2025
+     ⏰   Start Date: Jan 1, 2025 to End Date: Feb 28, 2025
     </p>
     <a href="https://securebyteofficial.github.io/Cybersecurity-Internship-for-Beginners/" target="_blank" style="display: inline-block; margin-top: 15px; padding: 10px 15px; background-color: #fff; color: #007bff; font-weight: bold; border-radius: 5px; text-decoration: none; box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.7); transition: box-shadow 0.3s ease;">
+      Learn More
+    </a>
+  </div>
+
+    <!-- Card 2 -->
+  <div style="flex: 1; max-width: 45%; position: relative; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #007bff, #00d4ff); color: white; box-shadow: 0 4px 15px rgba(0, 123, 255, 0.4);">
+    <div style="display: flex; align-items: center; gap: 15px;">
+      <h3 style="margin: 0;"> 🛡️ Cybersecurity Career Roadmap Seminar - From CSE Student to Cybersecurity Professional 🛡️  </h3>
+    </div>
+    <p style="margin: 10px 0 0; font-size: 0.9em; line-height: 1.5;">
+      designed specifically for CSE students eager to launch a career in cybersecurity.
+      <p style="margin: 10px 0 0; font-size: 0.9em; line-height: 1.5;">
+     ⏰   Event Date: December 6, 2024 (Friday) 
+    </p>
+    <a href="https://securebyteofficial.github.io/live-seminars/" target="_blank" style="display: inline-block; margin-top: 15px; padding: 10px 15px; background-color: #fff; color: #007bff; font-weight: bold; border-radius: 5px; text-decoration: none; box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.7); transition: box-shadow 0.3s ease;">
       Learn More
     </a>
   </div>
